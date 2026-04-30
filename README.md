@@ -18,7 +18,7 @@ Traditional ECG requires skin-attached electrodes, which may cause discomfort, m
 
 BCG sensors, placed under the mattress, offer:
 
- 1-Contact-free monitoring
- 2-Minimal disturbance during sleep
- 3-Improved user comfort and long-term compliance
- 4-Stable overnight acquisition without wearable sensors
+ 1. Contact-free monitoring
+ 2. Minimal disturbance during sleep
+ 3. Improved user comfort and long-term compliance
+ 4. Stable overnight acquisition without wearable sensors
