@@ -6,9 +6,9 @@ Sleep stages can be estimated using a single physiological channel such as ECG b
 
 By using BCG, we obtain a richer contact-free signal that captures:
 
- 1-Cardiac activity (ECG proxy)
- 2-Respiratory patterns
- 3-Body movements
+ 1. Cardiac activity (ECG proxy)
+ 2. Respiratory patterns
+ 3. Body movements
 
 This provides more information than a traditional single-lead ECG while maintaining a simple acquisition setup.
 
