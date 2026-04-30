@@ -22,3 +22,15 @@ BCG sensors, placed under the mattress, offer:
  2. Minimal disturbance during sleep
  3. Improved user comfort and long-term compliance
  4. Stable overnight acquisition without wearable sensors
+
+Raw BCG Signal
+      ↓
+Preprocessing
+      ↓
+ECG Reconstruction
+      ↓
+R-Peak Detection
+      ↓
+HRV Feature Extraction
+      ↓
+Sleep Stage Classification
