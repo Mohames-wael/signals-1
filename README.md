@@ -20,8 +20,17 @@ BCG sensors, placed under the mattress, offer:
 # Dataset
 This project uses sleep-related physiological recordings and annotation files containing sleep stage labels extracted from XML data.
 
+
 # Window Segmentation
 
 The continuous BCG recordings are divided into fixed 30-second windows (epochs), following the standard approach used in sleep staging systems.
 
 Each window represents a single sleep stage label extracted from the XML annotations (Wake, N1, N2, N3, or REM).
+
+#Training Strategy
+
+To improve model robustness and address class imbalance:
+
+1. Oversampling is applied only to the N1 class within the training set
+2. Noise-based augmentation is added to training samples
+3. Focal Loss is used to improve learning on minority classes
