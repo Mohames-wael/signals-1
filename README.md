@@ -15,7 +15,7 @@ BCG sensors, placed under the mattress, offer:
  4. Stable overnight acquisition without wearable sensors
 
 # Project Pipeline
-                      <img width="315" height="1024" alt="image" src="https://github.com/user-attachments/assets/3fd05860-305f-466a-b3b3-2a4d595e6902" />
+   <img width="315" height="1024" alt="image" src="https://github.com/user-attachments/assets/3fd05860-305f-466a-b3b3-2a4d595e6902" />
 
 # Dataset
 This project uses sleep-related physiological recordings and annotation files containing sleep stage labels extracted from XML data.
