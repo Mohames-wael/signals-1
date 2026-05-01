@@ -14,8 +14,8 @@ BCG sensors, placed under the mattress, offer:
  3. Improved user comfort and long-term compliance
  4. Stable overnight acquisition without wearable sensors
 
+# Project Pipeline
+<img width="315" height="1024" alt="image" src="https://github.com/user-attachments/assets/3fd05860-305f-466a-b3b3-2a4d595e6902" />
 
-
-<img width="1264" height="197" alt="Screenshot 2026-05-01 153332" src="https://github.com/user-attachments/assets/9a34e072-672e-46df-8966-b39b3a6951de" />
 
 
