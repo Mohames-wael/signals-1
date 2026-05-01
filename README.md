@@ -34,3 +34,13 @@ To improve model robustness and address class imbalance:
 1. Oversampling is applied only to the N1 class within the training set
 2. Noise-based augmentation is added to training samples
 3. Focal Loss is used to improve learning on minority classes
+
+# Results
+
+The proposed CNN + Transformer model achieved promising performance for single-channel BCG-based sleep stage classification.
+
+# Performance Metrics
+Accuracy: 76.96%
+Loss: 0.1060
+
+The model was evaluated on the original test set after applying preprocessing, class balancing, and data augmentation techniques.
