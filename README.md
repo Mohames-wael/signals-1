@@ -43,10 +43,15 @@ The proposed CNN + Transformer model achieved promising performance with Accurac
 Performance analysis was conducted using:
 
 1. Accuracy and loss metrics
+   
   <img width="1189" height="390" alt="image" src="https://github.com/user-attachments/assets/1efbec6b-66f3-4fce-986d-6d1059632247" />
+  
 2. Confusion matrix visualization
+   
   <img width="522" height="470" alt="image" src="https://github.com/user-attachments/assets/4dd34396-d523-4d77-b0fe-ae6d3c292c62" />
+  
 3. Multi class ROC curve
+ 
    <img width="846" height="701" alt="image" src="https://github.com/user-attachments/assets/5106261f-76e7-42cd-b0b9-b3a48867116e" />
 
 
