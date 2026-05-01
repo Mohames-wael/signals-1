@@ -27,7 +27,7 @@ The continuous BCG recordings are divided into fixed 30-second windows (epochs),
 
 Each window represents a single sleep stage label extracted from the XML annotations (Wake, N1, N2, N3, or REM).
 
-#Training Strategy
+# Training Strategy
 
 To improve model robustness and address class imbalance:
 
