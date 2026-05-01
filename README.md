@@ -15,5 +15,7 @@ BCG sensors, placed under the mattress, offer:
  4. Stable overnight acquisition without wearable sensors
 
 
-<img width="1024" height="187" alt="image" src="https://github.com/user-attachments/assets/5603c664-b488-40b4-a965-33ea2dd86a55" />
+
+<img width="1264" height="197" alt="Screenshot 2026-05-01 153332" src="https://github.com/user-attachments/assets/9a34e072-672e-46df-8966-b39b3a6951de" />
+
 
