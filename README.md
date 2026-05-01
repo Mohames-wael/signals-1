@@ -17,5 +17,11 @@ BCG sensors, placed under the mattress, offer:
 # Project Pipeline
 <img width="315" height="1024" alt="image" src="https://github.com/user-attachments/assets/3fd05860-305f-466a-b3b3-2a4d595e6902" />
 
+# Dataset
+This project uses sleep-related physiological recordings and annotation files containing sleep stage labels extracted from XML data.
 
+# Window Segmentation
 
+The continuous BCG recordings are divided into fixed 30-second windows (epochs), following the standard approach used in sleep staging systems.
+
+Each window represents a single sleep stage label extracted from the XML annotations (Wake, N1, N2, N3, or REM).
