@@ -8,6 +8,8 @@ Feasibility: Yes, sleep stages can be effectively classified using a single-chan
 
 # Project Pipeline
    <img width="315" height="1024" alt="image" src="https://github.com/user-attachments/assets/3fd05860-305f-466a-b3b3-2a4d595e6902" />
+   <img width="826" height="396" alt="image" src="https://github.com/user-attachments/assets/93f94984-0554-4a14-a191-79f751a7181d" />
+
 
 # Dataset
 This project uses sleep-related physiological recordings and annotation files containing sleep stage labels extracted from XML data.
